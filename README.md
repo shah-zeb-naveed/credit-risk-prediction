@@ -1,2 +1,2 @@
 # credit-risk-prediction
-Credit Risk Prediction using Regularized Logistic Regression
+Credit Risk Prediction using Regularized Logistic Regression in R
